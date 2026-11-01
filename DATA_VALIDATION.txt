@@ -1,0 +1,7 @@
+Data checks performed on the six supplied CSVs (not a MATLAB execution test):
+KS_Wichita: 8760 hourly rows, wind speed min 0 m/s, max 17.5 m/s
+MO_Springfield: 8760 hourly rows, wind speed min 0 m/s, max 17 m/s
+NM_Albuquerque: 8760 hourly rows, wind speed min 0 m/s, max 18 m/s
+NY_New_York: 8760 hourly rows, wind speed min 0 m/s, max 9.8 m/s
+UT_Salt_Lake_City: 8760 hourly rows, wind speed min 0 m/s, max 16 m/s
+PA_Philadelphia: 8760 hourly rows, wind speed min 0.1 m/s, max 9.7 m/s
